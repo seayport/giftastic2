@@ -1,0 +1,51 @@
+/* Remove the navbar's default margin-bottom and rounded borders */ 
+.navbar-brand {
+      font-size: 30px;
+      
+}
+.gif {
+  width: 200px;
+  height:200px;
+  margin: 10px;
+}   
+/* Add a background color and some padding to the footer */
+footer.container-fluid {
+  font-size: 18px;
+  background-color: #ccc;
+  padding: 15px;
+  border: 20px;
+}
+.container-fluid {
+  padding-right: 30px;
+  padding-left: 0px;
+}
+body{
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 30px;
+  color: #777;
+  line-height: 34px;
+  background-image: url("../images/water_spiral.jpg");
+}
+
+/* Set white background color and 90% height */
+.giphyShow {
+  display: block;
+  position: relative;
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-bottom: 20px;
+  padding-right: 10px;
+  font-size: 20px;
+  background-color: white;
+  height: 90%;
+  border-radius: 15px;
+  margin-top: 50px;
+}
+
+button{
+  margin:5px;
+}
+.sidenav {
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 22px;
+}
